@@ -8,15 +8,17 @@ Sensors.dll can be found [here](https://github.com/aneeshdalvi/SER574_sensors/tr
 ## Copy it into the assets folder of your Unity Project
 Sensors.dll
 
+```
 class Sensors
   └── void String printSensors()
+  ```
   
 ## Contributors
-Aneesh Dalvi
-Abhishek Haskar
-Nabeel Khan
-Samant Paranjpe
-Vaibhav Singhal
+- Aneesh Dalvi
+- Abhishek Haskar
+- Nabeel Khan
+- Samant Paranjpe
+- Vaibhav Singhal
 
 ## Acknowledgements
-Michael Findler
+- Michael Findler
