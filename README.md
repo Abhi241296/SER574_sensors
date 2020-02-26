@@ -23,7 +23,7 @@ class Sensors
 - Aneesh Dalvi
 - Abhishek Haskar
 - Nabeel Khan
-- Samant Paranjpe
+- Sumanth Paranjape
 - Vaibhav Singhal
 
 ## Acknowledgements
