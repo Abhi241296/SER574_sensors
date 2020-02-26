@@ -1,2 +1,24 @@
 # SER574_sensors
-Adding to maze game in unity
+
+## Rover Simulation - Sensors
+
+## How to use (for UI Team)
+- `Sensors.dll` can be found [here](https://github.com/aneeshdalvi/SER574_sensors/tree/master/Sensors/bin/Debug/netstandard2.0)
+- Copy it into the Assets folder of your Unity Project 
+
+Sensors.dll
+
+```
+class Sensors
+  └── void String printSensors()
+  ```
+  
+## Contributors
+- Aneesh Dalvi
+- Abhishek Haskar
+- Nabeel Khan
+- Samant Paranjpe
+- Vaibhav Singhal
+
+## Acknowledgements
+- Michael Findler
