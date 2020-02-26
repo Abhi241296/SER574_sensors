@@ -9,7 +9,7 @@
 ## How to run only our component in Unity (for Grader)
 - Open our Unity project
 - Add Sensors_Scene to the Hierarchy project section of Unity
-- Click on play game at the top
+- Click on 'play' game button at the top
 - Go to console and you will see the message "Hello from Sensors Library" 
 
 Sensors.dll
