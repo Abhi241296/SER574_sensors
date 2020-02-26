@@ -4,12 +4,12 @@
 
 ## How to use (for UI Team)
 - `Sensors.dll` can be found [here](https://github.com/aneeshdalvi/SER574_sensors/tree/master/Assets/Scenes)
-- Copy it into the Assets folder of your Unity Project 
+- Copy it into the `Assets` folder of your Unity Project 
 
 ## How to run only our component in Unity (for Grader)
 - Open our Unity project
-- Add Sensors_Scene to the Hierarchy project section of Unity
-- Click on 'play' game button at the top
+- Go to `Scenes` folder and add `Sensors_Scene` to the Hierarchy project section of Unity
+- Click on `play` game button at the top
 - Go to console and you will see the message "Hello from Sensors Library" 
 
 Sensors.dll
