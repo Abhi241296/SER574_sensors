@@ -27,5 +27,11 @@ class Sensors
 - Sumanth Paranjape
 - Vaibhav Singhal
 
+## Sensors
+ - Accelerometer
+ - ProximitySensor
+ - AmbientTemperatureSensor
+ - LinearAccelerationSensor
+
 ## Acknowledgements
 - Michael Findler
